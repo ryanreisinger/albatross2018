@@ -43,3 +43,9 @@ vignettes/*.pdf
 *.ai
 *.png
 *.tiff
+
+# RDS files in RDS folder
+/RDS/
+
+# Shape files in SHP folder
+/SHP/
