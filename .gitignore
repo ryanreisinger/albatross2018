@@ -43,6 +43,7 @@ vignettes/*.pdf
 *.ai
 *.png
 *.tiff
+*.tif
 
 # RDS files in RDS folder
 /RDS/
